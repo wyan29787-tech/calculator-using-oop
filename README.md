@@ -78,6 +78,4 @@ Possible future improvements could include:
 
 wyan29787-tech
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
