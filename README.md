@@ -71,7 +71,6 @@ Possible future improvements could include:
 
 - Support for more complex mathematical operations
 - A graphical user interface
-- Error handling for invalid inputs
 - Option to view calculation history from within the application
 
 ## Author
